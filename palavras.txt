@@ -1,4 +1,12 @@
-banana
-melancia
-morango
-maca
+Banana
+Melancia
+Mamao
+Maça
+Laranja
+Tangerina
+Melao
+Uva
+Abacate
+Umbu
+Lichia
+Jaca
